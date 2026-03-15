@@ -21,6 +21,8 @@
 | k2.5 | Kimi | 很慢 |
 | minimax-m2.5 | MiniMax | 很慢 |
 
+> 注意：该服务的 `grok` 和 `qwen` 不支持工具调用，在编程工具调用工具时会异常。
+
 ## 支持的端点
 
 - `/v1/chat/completions` - 对话补全
