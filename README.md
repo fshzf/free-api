@@ -9,6 +9,7 @@
 |--------|-----|
 | API 地址 | `https://openai.good.hidns.vip/v1` |
 | API Key | `sk-B882bCwUweSeMRscoNwxZw4vxpjXmvWTLBxO5aXC7WAYhfwa` |
+| 在线体验 | [在线体验](https://chat.good.hidns.vip) |
 | 模型状态 | [模型状态监测页面](https://status.good.hidns.vip) |
 | 使用教程 | [视频教程（B 站）](https://www.bilibili.com/video/BV1XHw2zrEzY) |
 
