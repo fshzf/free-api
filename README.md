@@ -23,6 +23,7 @@
 | glm5 | 智谱 GLM | 很慢 |
 | k2.5 | Kimi | 很慢 |
 | minimax-m2.5 | MiniMax | 很慢 |
+| deepseek-v3.2 | DeepSeek | 很慢 |
 
 > 模型变更：`gpt-5.4` 和 `gpt-5.3-codex` 已下线；为避免正在使用的人出问题，本服务目前使用 `gpt-5.2` 和 `gpt-5.2-codex` 作为替代（如你正在使用5.4或5.3，请及时调整切换到5.2）
 
