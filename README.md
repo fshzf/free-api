@@ -27,7 +27,7 @@
 | 模型名 | 模型ID示例 | 说明 |
 |------|---------|------|
 | GPT | gpt-5.4 | 对话、识图、工具，推荐使用 |
-| GPT | claude-sonnet-4.6 | 新增，测试 |
+| Claude | claude-sonnet-4.6 | 新增，测试 |
 | Grok | grok-4.1-fast | 生图首选，对话内容限制较少 |
 | Qwen | qwen3.5-flash | 通义千问 |
 | GLM | z-ai/glm5 | 智谱 GLM |
