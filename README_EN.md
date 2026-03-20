@@ -36,7 +36,7 @@ Free API is a public, no-cost API service compatible with the OpenAI API format.
 
 > Update: `gpt-5.4` and `gpt-5.3-codex` are available again and can be used directly.
 
-> Note: `grok4` and `qwen3.5` do not support tool calling. Attempting to use tools with them may produce unreliable results.
+> Note: `Claude` `Grok` and `Qwen` do not support tool calling. Attempting to use tools with them may produce unreliable results.
 
 ## Supported Endpoints
 
