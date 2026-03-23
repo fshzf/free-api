@@ -94,7 +94,7 @@ curl https://openai.good.hidns.vip/v1/images/generations \
 ## Notes
 
 - This service is provided free of charge for personal use. Please use it responsibly.
-- Rate limit: each IP can make up to 10 requests within 10 seconds. Exceeding this limit will trigger a 10-second restriction. This policy may change in the future.
+- Rate limit: each IP can make up to 5 requests within 10 seconds. Exceeding this limit will trigger a 10-second restriction. This policy may change in the future.
 - Do not submit sensitive information, personal data, or important business content.
 - This project does not collect user information. If you still have concerns, please do not use the service.
 - Future changes will be announced in this repository.
